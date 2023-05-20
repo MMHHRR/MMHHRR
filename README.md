@@ -1,22 +1,19 @@
-### Hi there 👋
 
-<!--
-**MMHHRR/MMHHRR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  
+Hi 👋, I am **Giingu** an enthusiastic and ambitious full stack developer and community manager. I specialise in Web Development, JavaScript and Design. I love to network, join new communities and add value ✨
 
-Here are some ideas to get you started:
+<div>
+<details>
+  <summary>🤔 More about me</summary>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-{
-  "image": "https://user-images.githubusercontent.com/51192422/119933239-5ca6b080-bfa1-11eb-96c7-b6edb9da4778.png",
-  "issueId": 531,
-  "name": "Ranjit Yadav",
-  "username": "13yadav"
-}
+- 🔭 I’m currently on a journey to build **great** things
+
+- 🌱 I’m currently learning **GCN** 🤓
+
+- 🤝 I’m looking for help with **finding projects to contribute to!**
+
+- 📫 Reach me out at **6210307146@stu.jiangnan.edu.cn**
+
+</details>
+  
+</p>
